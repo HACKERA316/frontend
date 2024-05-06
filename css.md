@@ -22,3 +22,23 @@
 <details>
   <summary><a href="https://mui.com/material-ui/">Material-UI</a></summary>
 </details>
+
+<details>
+  <summary><a href="https://nextui.org/">NextUI</a></summary>
+</details>
+
+<details>
+  <summary><a href="https://rsuitejs.com/">React Suite</a></summary>
+</details>
+
+<details>
+  <summary><a href="https://react-spectrum.adobe.com/">React Spectrum</a></summary>
+</details>
+
+<details>
+  <summary><a href="https://gestalt.pinterest.systems/home">Gestalt</a></summary>
+</details>
+
+<details>
+  <summary><a href="https://primereact.org/">PrimeReact</a></summary>
+</details>
