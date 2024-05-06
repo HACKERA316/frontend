@@ -1,6 +1,3 @@
-<h1 align="center">useful css libraries, frontend frameworks and more</h1>
-
-
 <details>
   <summary><a href="https://Mantine.dev">Mantine</a></summary>
 </details>
