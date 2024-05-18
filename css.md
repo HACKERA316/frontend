@@ -45,8 +45,8 @@
 
 <details>
   <summary><a href="https://flowbite-react.com">flowbite react</a></summary>
+   <a href="https://flowbite.com/">flowbite</a>
 </details>
-
 
 
 
