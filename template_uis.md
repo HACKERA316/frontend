@@ -1,3 +1,4 @@
+# my favorite conpoments ui elements
 <details>
   <summary><a href="https://Mantine.dev">Mantine</a></summary>
 </details>
@@ -81,11 +82,10 @@
    <a href="https://recharts.org/">radix-ui</a>
 </details>
 
-
-
-
-
-
+<details>
+  <summary><a href="https://heroui.com">heroui</a></summary>
+   <a href="https://heroui.com">heroui</a>
+</details>
 
 
 
