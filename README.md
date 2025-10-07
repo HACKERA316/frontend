@@ -1,3 +1,5 @@
 # frontend
 
-[css/theme/ui](css.md)
+
+### UI components
+  - [css/theme/ui](template_uis.md)
